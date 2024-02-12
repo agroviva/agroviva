@@ -1,0 +1,17 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.0",
+        "mpdf/mpdf": "^8.0",
+        "guzzlehttp/guzzle": "^7.0",
+        "agroviva/egroupware-api": "dev-master",
+        "nesbot/carbon": "^2.0",
+        "nilportugues/sql-query-builder": "^1.7",
+                "altayalp/ftp-client": "dev-master",
+                "phpseclib/mcrypt_compat": "^1.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": true
+        }
+    }
+}
